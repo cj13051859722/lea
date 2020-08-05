@@ -3,4 +3,5 @@ Git is free software.
 ere  111 111 111
 
 git has a mutable index called stage
+git stracks
 11111111111
