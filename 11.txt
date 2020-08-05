@@ -1,4 +1,6 @@
 Git is a version control system.
 Git is free software.
 ere  111 111 111
+
+git has a mutable index called stage
 11111111111
